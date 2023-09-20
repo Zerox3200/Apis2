@@ -1,0 +1,29 @@
+.Body3 {
+    width: 100%;
+    border: solid black 1px;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: url(bg-boost-desktop.svg), linear-gradient(to right, black, black);
+    row-gap: 9px;
+}
+
+.Body3 h4 {
+    color: white;
+}
+
+.Body3 button {
+    color: white;
+    background-color: hsl(180, 66%, 49%);
+    border: hsl(180, 66%, 49%);
+    border-radius: 40px;
+    padding-left: 33px;
+    padding-right: 33px;
+}
+
+.Body3 button:hover {
+    background-color: hsl(180deg 66% 49% / 53%);
+    border: hsl(180deg 66% 49% / 53%);
+}
