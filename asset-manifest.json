@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Apis2/static/css/main.f3a0ad78.css",
+    "main.js": "/Apis2/static/js/main.3ecc6a8f.js",
+    "static/js/787.344627f1.chunk.js": "/Apis2/static/js/787.344627f1.chunk.js",
+    "static/media/illustration-working.svg": "/Apis2/static/media/illustration-working.c9b5ef5452363d8be3df709375d50bd0.svg",
+    "static/media/logo.svg": "/Apis2/static/media/logo.834643034343520f3b4d7e43111ed4d8.svg",
+    "static/media/icon-fully-customizable.svg": "/Apis2/static/media/icon-fully-customizable.a1532a74fa781f6fde327313bd5ffce3.svg",
+    "static/media/icon-brand-recognition.svg": "/Apis2/static/media/icon-brand-recognition.c349d3b69f7442e5ac3552e4138e72e7.svg",
+    "static/media/bg-boost-desktop.svg": "/Apis2/static/media/bg-boost-desktop.772154c9b0e451733f5e.svg",
+    "static/media/icon-detailed-records.svg": "/Apis2/static/media/icon-detailed-records.265c8aea77b546e08ba3575f6a8a9f70.svg",
+    "index.html": "/Apis2/index.html",
+    "static/media/bg-shorten-desktop.svg": "/Apis2/static/media/bg-shorten-desktop.0d9742f433f4b0d8752b.svg",
+    "main.f3a0ad78.css.map": "/Apis2/static/css/main.f3a0ad78.css.map",
+    "main.3ecc6a8f.js.map": "/Apis2/static/js/main.3ecc6a8f.js.map",
+    "787.344627f1.chunk.js.map": "/Apis2/static/js/787.344627f1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3a0ad78.css",
+    "static/js/main.3ecc6a8f.js"
+  ]
+}
